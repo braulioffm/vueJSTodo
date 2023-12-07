@@ -1,7 +1,9 @@
-# Vue 3 + Vite
+# Projecto Todo List con VueJS + Vite + Bootstrap
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Este proyecto es una aplicación sencilla para registrar un listado de tareas por realizar (llamados Todos). 
 
-## Recommended IDE Setup
+Se pueden crear, editar, borrar y marcar como completados.
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Los registros se almacenan en el almacenamiento local del navegador, por lo que al actualizar la página o cerrar y volver a abrir, se podrán visualizar los datos previamente guardados.
+
+
