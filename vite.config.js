@@ -3,7 +3,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/vueJSTodo/',
+  // base: '/vueJSTodo/',
   plugins: [vue()],
   server: { hrml: false },
 
